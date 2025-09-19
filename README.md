@@ -1,5 +1,5 @@
 # 💫 About Me:
-i making a vr sandbox!<br>idk what to call it<br>i might learn unity<br>love2d and lovr are goated<br>fuck you JavaScript
+i making a vr sandbox!<br>idk what to call it<br>i might learn unity<br>love2d and lovr are goated<br>
 
 
 ## 🌐 Socials:
