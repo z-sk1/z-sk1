@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on ways of the pig (find in repos)<br>idk ima prob learn unity after dis<br>i like to make games<br>and sites<br>
+i making a vr sandbox!<br>idk what to call it<br>i might learn unity<br>love2d and lovr are goated<br>fuck you JavaScript
 
 
 ## 🌐 Socials:
